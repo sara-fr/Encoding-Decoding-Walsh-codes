@@ -1,4 +1,4 @@
-//Sara Farhadi
+//Sara Farhadi client program
 #include <iostream>
 #include <stdio.h>
 #include <iomanip>
@@ -13,6 +13,7 @@
 #include <sys/wait.h>
 #include <algorithm>
 #include <string>
+
 using namespace std;
 void error(char *msg)
 {
